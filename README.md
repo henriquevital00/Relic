@@ -6,6 +6,6 @@ Consiste em um aplicativo no qual o usuário pode solicitar o conserto de relíq
 A partir dessa conexão occore um contato através do whatsapp onde acertam o preço, tempo e outros pontos importantes para ambas as partes. Para mais detalhes, leia a Wiki do projeto.
 
 <p align="center">
-    <img src="https://github.com/henriquevital00/Relic/blob/main/Images/Logo.png" width="100%">
+    <img src="https://github.com/henriquevital00/Relic/blob/main/Images/Logo.png" width="50%">
 </p>
 
