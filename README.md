@@ -1,6 +1,6 @@
 # Relic
 
-<img align="right" src="https://github.com/henriquevital00/Relic/blob/main/Images/Logo.png" width="35%" />
+<img align="right" src="https://github.com/henriquevital00/Relic/blob/main/Images/Logo.png" width="30%" />
 
 ## Descrição 
 Projeto semestral da matéria de Engenharia de Software, ministrada no Centro Universitário FEI. 
