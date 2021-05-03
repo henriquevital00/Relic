@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 3699 11854" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.parent {
+					position: relative;
+					top: 0;
+					left: 0;
+				}
+				.gifs{
+					width: 14%;
+					height: auto;
+				}
+			</style>
+			<div class="parent">
+				<img src="https://github.com/henriquevital00/Relic/blob/main/SequenceDiagram/Customer.jpg?raw=true" alt="main window"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/criar_entrar_user.gif?raw=true" style="position: absolute; top: 720px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_cadastrar_produto.gif?raw=true" style="position: absolute; top: 1965px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/peido_andamento.gif?raw=true" style="position: absolute; top: 3210px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_selecionar_prestador.gif?raw=true" style="position: absolute; top: 4440px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_remover_prestador.gif?raw=true" style="position: absolute; top: 5655px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_comunicar_prestador_chat.gif?raw=true" style="position: absolute; top: 6925px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_chamar_prestador_q_nunca_viu_chat_.gif?raw=true" style="position: absolute; top: 6925px; left: 2010px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_notificacao.gif?raw=true" style="position: absolute; top: 8240px; left: 1450px;"/>
+				<img class="gifs" src="https://github.com/henriquevital00/Relic/blob/main/Gifs/gifsClient/user_alterar_dados_da_conta.gif?raw=true" style="position: absolute; top: 10290px; left: 1470px;"/>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
