@@ -9248,7 +9248,7 @@
 							}
 						}
 					],
-					"documentation": "**Fluxo Principal**\n\n1. Include UC Autenticação\n\n2. Clicar no botão detalhes\n\n3. Clicar no botão de edição do perfil\n\n4. Atualizar as informações necessárias\n"
+					"documentation": "**Fluxo Principal**\n\n1. Include UC Autenticação\n\n2. Clicar no botão detalhes\n\n3. Clicar no botão de edição do perfil\n\n4. Atualizar as informações necessárias\n\n**Fluxo Secundário**\nCampos inconsistentes\n\n1. Include UC Autenticação\n\n2. Clicar no botão de detalhes\n\n3. O sistema exibe as informações referentes aos dados pessoais do usuário\n\n4. O usuário edita os campos de seu perfil inserindo dados inconsistentes\n\n5. O sistema exibe que as informações não são válidas e pede para que o usuário as corrija\n\n"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -9470,7 +9470,7 @@
 							}
 						}
 					],
-					"documentation": "**Fluxo Principal**\n\n1. Include UC Autenticação\n\n2. Clicar no botão de notificações\n\n3. Selecionar a notificação para maiores informações\n"
+					"documentation": "**Fluxo Principal**\n\n1. Include UC Autenticação\n\n2. Clicar no botão de notificações\n\n3. Selecionar a notificação para maiores informações\n\n\n**Fluxo Secundário**\nNão há notificações\n\n1. Include UC Autenticação\n\n2. Clicar no botão de notificações\n\n3. Caso não haja notificações, o sistema apresentará a mensagem \"Sem notificações\""
 				},
 				{
 					"_type": "UMLUseCase",
