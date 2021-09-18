@@ -12652,6 +12652,7 @@
 							}
 						}
 					],
+					"documentation": "Solicitação de reparo: Classe para representação da solicitação de reparo feita pelo cliente\n\nAtributos\n\n- Herda todos os atributos da classe cliente \n- Nome do produto: Nome do produto\n- Anexos: Arquivos referentes ao produto (fotos, video)\n- Descrição: Descrição sobre o produto e seu problema a ser consertado\n- Data: Data de criação da solicitação de reparo\n- Categoria: Categoria a qual o item se enquadra (quadro, vaso)",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
