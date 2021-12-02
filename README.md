@@ -3,7 +3,7 @@
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antuniooh/Relic">
   
-  <a href="https://github.com/antuniooh/ClassroomWebsiteProject/commits/master">
+  <a href="https://github.com/antuniooh/Relic/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/antuniooh/Relic">
   </a>
   
