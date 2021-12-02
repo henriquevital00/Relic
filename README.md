@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-yellow?style=for-the-badge&logo=c#&logoColor=white"/>
-  <img alt="Software" src="https://img.shields.io/badge/Software-orange?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-yellow?style=for-the-badge&logo=figma#&logoColor=white"/>
+  <img alt="Software" src="https://img.shields.io/badge/Software-orange?style=for-the-badge&logo=software&logoColor=white"/>
 </p>
 
 
