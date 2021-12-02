@@ -80,8 +80,9 @@ $ cd Relic
 
 ## 🤖 Authors
 
-[Antonio Gustavo](https://www.linkedin.com/in/antuniooh/)           |  [Beatriz Villas](https://www.linkedin.com/in/beatriz-vilas-boas-020209171/)           |  [Luiz Otavio](https://www.linkedin.com/in/luiz-ot%C3%A1vio-prado-9a743b162/)           |  [Lais Julia](https://www.linkedin.com/in/)           
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://avatars.githubusercontent.com/u/51217271?v=4" alt="drawing" width="150"/>  |  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHZ5OBBv6AIeA/profile-displayphoto-shrink_200_200/0/1629126201255?e=1643241600&v=beta&t=pojH66vNIrvQxXwImH3EhdEYVx5u4KDH-y7hMCd34tQ" alt="drawing" width="150"/>| <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHjaY5WtX3NGA/profile-displayphoto-shrink_800_800/0/1549973726727?e=1643241600&v=beta&t=DGwrckE9-FLO-u45SnWnoLXOBJnmZRqpPmQVhKghwnE" alt="drawing" width="150"/>| <img src="https://scontent.fcgh3-1.fna.fbcdn.net/v/t1.6435-9/64352609_2321058317916928_8318066692626317312_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=_RtDbHY_8xAAX8uSP9J&tn=rLBzopyQeseLTshN&_nc_ht=scontent.fcgh3-1.fna&oh=7b94ae517f8e59d2e4a90a00d8eb219f&oe=61BFBCAF" alt="drawing" width="150"/>
+[Antonio Gustavo](https://github.com/antuniooh)           |  [Henrique Vital](https://github.com/henriquevital00)           |  [Gabriel Bueno](https://github.com/GabrielBueno200)           |  [João Vitor Dias](https://github.com/JoaoDias-223)           |  [Weverson da Silva](https://github.com/WebisD)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://avatars.githubusercontent.com/u/51217271?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/48650626?v=4" alt="drawing" width="150"/>| <img src="https://avatars.githubusercontent.com/u/56837996?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/63318342?v=4" alt="drawing" width="150"/>| <img src="https://avatars.githubusercontent.com/u/49571908?v=4" alt="drawing" width="150"/>
+22.119.001-0 | 22.119.078-8 | 22.119.077-0 | 22.119.006-9 | 22.119.004-4
 
 
