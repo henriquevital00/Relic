@@ -50,7 +50,7 @@ Semiannual project of the subject of Software Engineering, taught at Centro Univ
 
 For more details, read the project's Wiki or access the application directly via the link below.
 
-![image](Protótipo do Figma)
+![image](https://github.com/antuniooh/Relic/blob/main/Gifs/gifsPrestador/marketplace.gif)
 
 <a href="https://www.figma.com/proto/b9z7I1oRjL27k6tBqsvQ6h/Projeto-de-Eng-de-Soft?node-id=180%3A38&scaling=scale-down&page-id=25%3A2349" target="_blank">Protótipo do Figma</a>
 
